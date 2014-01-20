@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 small, .milli {
   font-size: 0.8889rem;
   line-height: 1.6875;
-}
+}   
 
 .micro {
   font-size: 0.7901rem;
@@ -174,5 +174,3 @@ caption {
 th, td {
 	padding: .25em .5em;
 }
-
-
