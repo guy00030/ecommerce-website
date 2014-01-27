@@ -11,7 +11,7 @@
  */
 
 html {
-  background-color: #f2f1ed;
+  background-color: #E0E0E0;
 
   color: #444;
   font: normal 100%/1.5 ; /* 16px/24px */
@@ -21,6 +21,11 @@ h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl,
 blockquote, table, hr {
   margin: 0 0 1.5rem;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+	color: #535353;
 }
 
 .yotta {
@@ -34,12 +39,16 @@ blockquote, table, hr {
 }
 
 h1, .exa {
-  font-size: 1.8020rem;
+  font-size: 2.5rem;
   line-height: 1.6648;
+  font-family: 'Loved by the King', cursive;
+  font-size: 3rem;
+  color: #00696A;
 }
 
 h2, .peta {
-  font-size: 1.6018rem;
+  font-size: 2rem;
+  font-family: 'Loved by the King', cursive;
   line-height: 1.8729;
 }
 
