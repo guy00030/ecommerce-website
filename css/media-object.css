@@ -1,16 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
 
-h2 {
-	font-family: 'Loved by the King', cursive;
-	color: #00696A;
-}
-
-p {
-	font-family: Helvetica, sans-serif;
-	color: #535353;
-}
-
 .media {
 	overflow: hidden;
 }
