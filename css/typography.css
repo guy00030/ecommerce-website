@@ -41,14 +41,11 @@ p {
 h1, .exa {
   font-size: 2.5rem;
   line-height: 1.6648;
-  font-family: 'Loved by the King', cursive;
   font-size: 3rem;
-  color: #00696A;
 }
 
 h2, .peta {
   font-size: 2rem;
-  font-family: 'Loved by the King', cursive;
   line-height: 1.8729;
 }
 
@@ -84,8 +81,8 @@ small, .milli {
 
 h1, h2, h3, h4, h5, h6,
 .brand {
-  color: #5d8432;
-  font-family: "Patua One",serif;
+  color: #00696A;
+  font-family: 'Loved by the King', cursive;
 }
 
 a,
@@ -107,6 +104,10 @@ a:focus,
 a:active {
   color: #b42885;
   border-bottom-color: #b42885;
+}
+
+.btn {
+	 font-family: 'Loved by the King', cursive;
 }
 
 sup,
