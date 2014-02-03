@@ -1,6 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 
+footer{
+	background-color: #656565;
+	height: 10rem;
+	width: 100%;
+}
+
 .hide-text{
 	display: block;
 	text-indent: 100%;
