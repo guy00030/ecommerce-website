@@ -3,23 +3,18 @@
 
 .btn,
 .btn:link,
-.btn:visited {
+.btn:visited 
+.btn-alt {
 	display: inline-block;
 	padding: 0.75rem 1em;
 	background-color: #793284;
-	background-image: linear-gradient(to bottom, #87CCC8, #B2D46F);
+	background-image: linear-gradient(to bottom, #87CCC8, #494949);
 	border-radius: 4px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 	color: #fff;
 	font-weight: bold;
 	border: 0;
-}
-
-.btn-alt, 
-.btn-alt:link,
-.btn-alt:visited {
-	background-color: #;
-	background-image: linear-gradient(to bottom, #00CCA1, #3b6210);
+	margin-bottom: 2rem;
 }
 
 .btn-alt:hover {
