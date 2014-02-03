@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .grid {
-	border: 1px solid red;
+	border: 1px solid white;
 	overflow: hidden;
 }
 
@@ -12,7 +12,7 @@ img {
 
 .unit {
 	float: left;
-	background-color: #fff;
+	background-color: #fbe6ec;
 }
 
 .unit-s-1 {

@@ -24,6 +24,8 @@ footer{
 
 .social{ 
 	text-align: center;
+	display:inline-block;
+
 }
 	
 .follow-us{
@@ -49,7 +51,7 @@ footer{
 	-o-border-radius: 20px;
 	border-radius: 20px;
 	
-	color: #fff;
+	color: #fbe6ec;
 	
 	/*background-color: #222; */
 	-webkit-box-shadow: inset 0px 0px 0px 40px #222;
