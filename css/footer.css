@@ -42,7 +42,6 @@ footer{
 	height: 40px;
 	margin: 1rem 0 1rem 1rem;
 	text-align: center;
-	padding-top: 0.8125rem;
 	margin-right: 1rem;
 	
 	-webkit-border-radius: 20px;
@@ -59,6 +58,10 @@ footer{
 	-ms-box-shadow: inset 0px 0px 0px 40px #222;
 	-o-box-shadow: inset 0px 0px 0px 40px #222;
 	box-shadow: inset 0px 0px 0px 40px #222;
+}
+
+.social i {
+	margin-top: 0.5rem;
 }
 
 .social a:hover,
