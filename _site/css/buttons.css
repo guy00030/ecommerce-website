@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.btn,
+.btn:link,
+.btn:visited 
+.btn-alt {
+	display: inline-block;
+	float: center;
+	padding: 0.75rem 1em;
+	background-color: #793284;
+	background-image: linear-gradient(to bottom, #87CCC8, #494949);
+	border-radius: 4px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+	color: #fff;
+	font-weight: bold;
+	border: 0;
+	font-family: 'Loved by the King', cursive;
+}
+
+.btn-alt:hover {
+	color: #000;
+}
+
+.nav-btn{
+	font-family: 'Loved by the King', cursive;
+	font-size: 1.5rem;
+	color: #44C1AF;
+}
+
+.nav-border{
+	border: solid 1px;
+	padding: 1rem;
+}
+
+.nav-alt:hover{
+	color: #c7c0ae;
+}
