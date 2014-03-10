@@ -26,11 +26,15 @@ blockquote, table, hr {
 p {
 	font-family: Helvetica, sans-serif;
 	color: #535353;
+  padding-left: .5rem;
+  margin-top: 2rem;
+  text-align: center;
 }
 
 .yotta {
   font-size: 2.2807rem;
   line-height: 1.3154;
+  color: #c7c0ae;
 }
 
 .zetta {
@@ -42,11 +46,14 @@ h1, .exa {
   font-size: 2.5rem;
   line-height: 1.6648;
   font-size: 3rem;
+  text-align: center;
+  margin-top: 1rem;
 }
 
 h2, .peta {
   font-size: 2rem;
   line-height: 1.8729;
+  text-align: center;
 }
 
 h3, .tera {
