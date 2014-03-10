@@ -23,13 +23,15 @@
 	color: #000;
 }
 
-.nav-btn{
+.nav-btn,
+.nav-btn:link,
+.nav-btn:visited {
 	font-family: 'Loved by the King', cursive;
 	font-size: 1.5rem;
 	color: #44C1AF;
 }
 
-.nav-border{
+.nav-border {
 	border: solid 1px;
 	padding: 1rem;
 }
