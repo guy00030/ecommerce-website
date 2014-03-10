@@ -35,7 +35,8 @@ header {
 }
 
 .banner h2 {
-  color: #00696A;
+  color: #fff;
+  font-family: helvetica, sans-serif;
+  font-size: 1.25rem;
   background-color: #e4dce0;
-  font-size: 2rem;
 }
