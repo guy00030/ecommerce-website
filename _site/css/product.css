@@ -9,9 +9,16 @@
 
 .flex-img {
 	width: auto;
-	diaply: block;
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 1rem;
 }
 
 .space-none {
 	margin-bottom: 0;
+}
+
+.tote-image {
+	width: auto;
+	margin: 0 auto;
 }

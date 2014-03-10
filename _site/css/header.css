@@ -2,8 +2,8 @@
 /* CSS Document */
 
 .logo {
-	width: 15%;
-	float: left;
+	width: 5%;
+	margin-left: 3rem;
 }
 
 header {
@@ -12,7 +12,8 @@ header {
 	font-family: 'Loved by the King', cursive;
 	color: #c7c0ae;
 	text-align: center;
-	margin-bottom: .25rem; 
+	padding-bottom: .25rem; 
+	padding-top: 1rem;
 }
 
 .tfheader {
@@ -20,4 +21,21 @@ header {
 
 .btn{
 	font-size: 1.1rem;
+}
+
+.current {
+  background-color: #e4dce0;
+}
+
+.banner {
+  background: url('../images/banner.jpg') no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  padding: 5rem 1rem 1rem;
+}
+
+.banner h2 {
+  color: #00696A;
+  background-color: #e4dce0;
+  font-size: 2rem;
 }
