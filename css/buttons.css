@@ -31,11 +31,13 @@
 	color: #44C1AF;
 }
 
-.nav-border {
+.nav-border,
+.nav-border:link,
+.nav-border:visited {
 	border: solid 1px;
 	padding: 1rem;
 }
 
-.nav-alt:hover{
+.nav-alt:hover {
 	color: #c7c0ae;
 }
