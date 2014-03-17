@@ -8,10 +8,11 @@
 }
 
 .flex-img {
-	width: auto;
+	width: 100%;
 	display: block;
 	margin: 0 auto;
 	padding-bottom: 1rem;
+
 }
 
 .space-none {
@@ -19,6 +20,6 @@
 }
 
 .tote-image {
-	width: auto;
+	max-width: 400px;
 	margin: 0 auto;
 }
