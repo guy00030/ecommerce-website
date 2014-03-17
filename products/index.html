@@ -1,0 +1,27 @@
+---
+layout: default
+title: colours
+---
+
+<div class="grid">
+	<div class="unit unit-s-1 unit-m-1-2 unit-1-1-3">
+		<h1>Tote bag colours available:</h1>
+	</div>
+
+	<div class="unit unit-s-1 unit-m-1-2 unit-1-2-3">
+<p>Consider your print before chosing a colour.</p>
+</div>
+</div>
+
+<ul>
+	{% for tote in site.pages %}
+	{% if tote.category == 'tote' %}
+	<li>
+		<a href="{{site.base.url}}{{tote.url}}">
+			<img src="{{site.base.url}}/images/{{tote.image}}" alt="">
+			{{tote.name}}
+		</a>
+	</li>
+	{% endif %}
+	{% endfor %}
+</ul>
