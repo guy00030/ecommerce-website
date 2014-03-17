@@ -48,6 +48,7 @@ h1, .exa {
   font-size: 3rem;
   text-align: center;
   margin-top: 1rem;
+  font-style: Helvetica, sans-serif;
 }
 
 h2, .peta {
@@ -86,7 +87,16 @@ small, .milli {
   line-height: 1.8984;
 }
 
-h1, h2, h3, h4, h5, h6,
+h5 {
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: .75rem;
+  margin-left: 1rem;
+  padding-bottom: 1rem;
+}
+
+h1, h2, h3, h4, h6,
 .brand {
   color: #00696A;
   font-family: 'Loved by the King', cursive;
