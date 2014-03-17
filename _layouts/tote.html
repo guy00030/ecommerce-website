@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h1>{{page.name}}</h1>
+
+<div class="grid">
+
+	<img src="{{site.baseurl}}/images/{{page.image}}" class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+
+		<dl class="unit unit-s-1 unit-m-1-2 unit-l-2-3">
+			<dt>Artist</dt>
+			<dd>{{page.artist}}</dd>
+			<dt>Price</dt>
+			<dd>{{page.price}}</dd>
+			<dt>Fabric</dt>
+			<dd>{{page.fabric}}</dd>
+			<dt>Colour</dt>
+			<dd>{{page.colour}}</dd>
+		</dl>
+
+</div>
+
+{{content}}

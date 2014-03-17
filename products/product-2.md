@@ -4,6 +4,8 @@ category: tote
 name: String
 artist: Satria Kwan
 colour: brown
+price: 40$
+fabric: Cotton
 image: string.jpg
 ---
 
