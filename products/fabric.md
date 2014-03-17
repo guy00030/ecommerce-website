@@ -1,9 +1,8 @@
 ---
-category: dinosaur
-name: Pteranodon
-time_period: Jurassic
-diet: Carnivore
-image: air-dinos/pteranodon.jpg
+layout: tote
+category: tote
+name: colour
+image: tote-bag-2.jpg
 ---
 
 Our *fabric* comes in a wide variety. Whether you are looking for something **eco friendly** or strictly **fashionable. 
