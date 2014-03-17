@@ -1,20 +1,19 @@
 ---
-layout: tote
-category: dinosaur
-name: tyrannosaurus
-time_period: Late Cretaceous
-diet: Carnivore
-image: land-dinos/hadrosaur.jpg
+layout: products
+category: tote
+name: size
+image: tote-bag-3.jpg
 ---
 
-The *Tyrannosaurus* is the most **fierce** dinosaur that ever existed!
+Our tote bags come in different shapes and sizes. 
 
-The T-Rex lived in the late [Cretaceous Period](http://en.wikipedia.org/wiki/Cretaceous).
+Various styles can be made by [special order](http://en.wikipedia.org/wiki/Cretaceous).
 
-## Features
+## Sizes
 
-- Big Teeth
-- Small arms
-- Thick tail
+- Large
+- Medium
+- Small
+- Square
 
-![T-Rex](http://static.comicvine.com/uploads/original/11113/111130081/3394555-6999427612-t_rex.jpg)
+![bag-sizes](http://www.plaidonline.com/ProjectImages/PJ_LRG_4593_1.jpg)

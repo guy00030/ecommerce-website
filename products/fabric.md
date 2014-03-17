@@ -1,11 +1,11 @@
 ---
-layout: tote
+layout: default
 category: tote
 name: colour
 image: tote-bag-2.jpg
 ---
 
-Our *fabric* comes in a wide variety. Whether you are looking for something **eco friendly** or strictly **fashionable. 
+Our *fabric* comes in a wide variety. Whether you are looking for something **eco friendly** or strictly **fashionable**. 
 
 We have fabrics to suit your needs. Some fabrics have special needs and some need to be [printed specially](http://www.first2print.com/digital-fabric-printing-basics.cfm).
 
@@ -13,7 +13,7 @@ We have fabrics to suit your needs. Some fabrics have special needs and some nee
 
 - Canvas
 - Linen
-- Leather
+- Faux Leather
 - Cotton
 - Polyester
 - Jute

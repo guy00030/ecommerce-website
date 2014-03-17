@@ -1,18 +1,25 @@
 ---
-layout: tote
+layout: default
 category: tote
 name: colour
 image: tote-bag-1.jpg
 ---
 
-The *Tyrannosaurus* is the most **fierce** dinosaur that ever existed!
+A wide variety of colours are available. 
 
-The T-Rex lived in the late [Cretaceous Period](http://en.wikipedia.org/wiki/Cretaceous).
+## Colours
 
-## Features
+- Natural (Fabric colour)
+- Black
+- White
+- Red
+- Blue
+- Yellow
+- Cream
+- Green
+- Orange
+- Purple
 
-- Big Teeth
-- Small arms
-- Thick tail
+On the order page there will be an option for your *colour choice*. Indicate colour by **name** or by **number**. For custom colours please go to [this site](http://kuler.com) and choose a # for your colour of choice. 
 
-![T-Rex](http://static.comicvine.com/uploads/original/11113/111130081/3394555-6999427612-t_rex.jpg)
+![colour](http://4.bp.blogspot.com/-p3qIs4r22Qo/T4vcCYY3mEI/AAAAAAAAA58/o9CdGkFvlgY/s1600/colour+and+culture+fooditerranean.jpg)
