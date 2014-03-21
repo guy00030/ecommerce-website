@@ -4,7 +4,7 @@ layout: default
 
 <h1>Shopping Cart</h1>
 
-	<h2> 1 Items in your cart</h2>
+	<h6 class="items"> 1 Items in your cart</h6>
 
 <div class="grid order">
 
@@ -12,9 +12,13 @@ layout: default
 	<dt></dt>
 <dd><img class="flex-img mins"src="{{sitebase.url}}/images/vile.jpg/" alt="vile bag">
 </dl>
+	
+	<p class="zetta"><strong>ORDER SUMMARY</strong></p>
+	<p><strong>Price:</strong>$40.00</p>
+	<p><strong>HST:</strong>13%</p>
+	<p><strong>Shipping:</strong>$18.00</p>
+	<p class="exa"><strong>Total:</strong>$63.20</p>
 
-
-	<h3>Order Summary</h3>
 
 {% if page.showproduct%}
 <div class="product">
@@ -25,4 +29,10 @@ layout: default
 
 </div>
 
+<div class="grid order">
 
+	<h6 class="items"> Method of payment</h6>
+
+<a class="btn btn-alt exa" href="{{sitebase.url}}/cart/">Visa</a>
+<a class="btn btn-alt exa" href="{{sitebase.url}}/cart/">Mastercard</a>
+<a class="btn btn-alt exa" href="{{sitebase.url}}/cart/">Paypal</a>
