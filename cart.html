@@ -6,9 +6,21 @@ layout: default
 
 	<h2> 1 Items in your cart</h2>
 
-<div class="grid">
+<div class="grid order">
+
+<dl>
+	<dt></dt>
+<dd><img class="flex-img mins"src="{{sitebase.url}}/images/vile.jpg/" alt="vile bag">
+</dl>
 
 
+	<h3>Order Summary</h3>
+
+{% if page.showproduct%}
+<div class="product">
+  <h2>{{page.producttext}}</h2>
+</div>
+{% endif %}
 
 
 </div>
