@@ -1,6 +1,6 @@
 ---
 layout: tote
-category: tote
+category: tote-bags
 name: Abstract Blue
 artist: Terry Fan
 colour: Neatral

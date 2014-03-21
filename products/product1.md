@@ -1,6 +1,6 @@
 ---
 layout: tote
-category: products
+category: tot-bags
 name: Vile
 image: vile.jpg
 ---

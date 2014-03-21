@@ -1,6 +1,6 @@
 ---
 layout: tote
-category: other-tote
+category: tote-bags
 name: Pink Flowers
 artist: Satria Kwan
 colour: light blue-green

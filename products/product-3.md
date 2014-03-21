@@ -1,6 +1,6 @@
 ---
 layout: tote
-category: tote
+category: tote-bags
 name: Flowers
 artist: Bianca Green
 colour: Neutral

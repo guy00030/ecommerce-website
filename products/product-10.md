@@ -1,6 +1,6 @@
 ---
 layout: tote
-category: tote
+category: tote-bags
 name: Small Birds
 artist: Fred Alexander
 colour: blue-green

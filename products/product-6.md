@@ -1,6 +1,6 @@
 ---
 layout: tote
-category: tote
+category: tote-bags
 name: Birds
 artist: Satria Kwan
 colour: blue-green

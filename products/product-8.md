@@ -1,6 +1,6 @@
 ---
 layout: tote
-category: tote
+category: tote-bags
 name: Abstract Pink
 artist: Gratia Trand
 colour: blue-green

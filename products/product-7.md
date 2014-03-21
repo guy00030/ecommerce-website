@@ -1,6 +1,6 @@
 ---
 layout: tote
-category: tote
+category: tote-bags
 name: Deer Love
 artist: Satria Kwan
 colour: white
