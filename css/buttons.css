@@ -9,26 +9,26 @@
 	float: center;
 	padding: 0.75rem 1em;
 	margin-bottom: 1rem;
-	background-color: #793284;
-	background-image: linear-gradient(to bottom, #87CCC8, #494949);
+	margin-left: 1rem;
+	background: -webkit-gradient(linear, left top, left bottom, from(), to(#000));
 	border-radius: 4px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-	color: #fff;
+	color: #ef9cb0;
 	font-weight: bold;
-	border: 0;
+	border: 2;
 	font-family: 'Loved by the King', cursive;
 }
 
 .btn-alt:hover {
-	color: #000;
+	color: #fff;
 }
 
 .nav-btn,
 .nav-btn:link,
 .nav-btn:visited {
 	font-family: 'Loved by the King', cursive;
-	font-size: 1.5rem;
-	color: #44C1AF;
+	font-size: 2rem;
+	color: #ef9cb0;
 }
 
 .nav-border,
@@ -39,5 +39,5 @@
 }
 
 .nav-alt:hover {
-	color: #c7c0ae;
+	color: #01aeb0;
 }
