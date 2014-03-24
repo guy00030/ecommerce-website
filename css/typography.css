@@ -30,7 +30,6 @@ p {
   margin-top: 2rem;
   margin: bottom: 2rem;
   text-align: center;
-  line-height: .25rem;
 }
 
 .yotta {
@@ -76,7 +75,7 @@ h5, .mega {
 h6, .kilo {
   font-size: 1.0000rem;
   line-height: 1.5000;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Poiret One', cursive;
 }
 
 small, .milli {
@@ -104,7 +103,7 @@ h5 {
 h1, h2, h3, h4, h6,
 .brand {
   color: #00696A;
-  font-family: 'Loved by the King', cursive;
+  font-family: 'Poiret One', cursive;
 }
 
 a,
@@ -129,7 +128,7 @@ a:active {
 }
 
 .btn {
-	 font-family: 'Loved by the King', cursive;
+	 font-family: 'Poiret One', cursive;
 }
 
 sup,
@@ -238,7 +237,7 @@ th, td {
 }
 
 .items {
-  font-family: Helvetica, sans-serif;
+  font-family: 'Poiret One', cursive;
   font-weight: bold;
   color: #000;
   font-size: 1.5rem;
