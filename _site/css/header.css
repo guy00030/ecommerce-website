@@ -2,14 +2,15 @@
 /* CSS Document */
 
 .logo {
-	width: 5%;
+	width: 40%;
 	margin-left: 3rem;
+	padding-bottom: 2rem;
 }
 
 header {
 	background-color: #000;
 	width:100%;
-	font-family: 'Loved by the King', cursive;
+	font-family: 'Poiret One', cursive;
 	color: #c7c0ae;
 	text-align: center;
 	padding-bottom: .25rem; 
@@ -36,7 +37,7 @@ header {
 
 .banner h2 {
   color: #fff;
-  font-family: helvetica, sans-serif;
+  font-family: 'Poiret One', cursive;
   font-size: 1.25rem;
   background-color: #e4dce0;
 }

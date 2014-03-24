@@ -16,7 +16,7 @@
 	color: #ef9cb0;
 	font-weight: bold;
 	border: 2;
-	font-family: 'Loved by the King', cursive;
+	font-family: 'Poiret One', cursive;
 }
 
 .btn-alt:hover {
@@ -26,7 +26,7 @@
 .nav-btn,
 .nav-btn:link,
 .nav-btn:visited {
-	font-family: 'Loved by the King', cursive;
+	font-family: 'Poiret One', cursive;
 	font-size: 2rem;
 	color: #ef9cb0;
 }
