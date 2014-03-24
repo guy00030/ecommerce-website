@@ -28,7 +28,9 @@ p {
 	color: #535353;
   padding-left: .5rem;
   margin-top: 2rem;
+  margin: bottom: 2rem;
   text-align: center;
+  line-height: .25rem;
 }
 
 .yotta {
@@ -91,9 +93,12 @@ h5 {
   color: #fff;
   font-family: Helvetica, sans-serif;
   font-weight: 100;
-  font-size: .75rem;
+  font-size: 1rem;
   margin-left: 1rem;
+  margin-top: 1rem;
   padding-bottom: 1rem;
+  text-align: center;
+  line-height: .25rem;
 }
 
 h1, h2, h3, h4, h6,
@@ -182,7 +187,6 @@ ol {
 
 ul {
   padding: 0;
-
   list-style-type: none;
 }
 
