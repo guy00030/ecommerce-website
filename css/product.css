@@ -5,6 +5,7 @@
 	background-color: #D6D6D6;
 	padding: 1em;
 	border-radius: 6px;
+	display: block;
 }
 
 .flex-img {
