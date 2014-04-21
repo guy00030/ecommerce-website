@@ -15,8 +15,8 @@ title: products
 	{% for tote in site.pages %}
 	{% if tote.category == 'category' %}
 	<li>
-		<a href="{{site.base.url}}{{tote.url}}" class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-			<img src="{{site.base.url}}/images/{{tote.image}}" alt="" class="flex-img">
+		<a href="{{site.baseurl}}{{tote.url}}" class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+			<img src="{{site.baseurl}}/images/{{tote.image}}" alt="" class="flex-img">
 			{{tote.name}}
 		</a>
 	</li>
