@@ -60,6 +60,8 @@ h2, .peta {
 h3, .tera {
   font-size: 1.4238rem;
   line-height: 1.0535;
+  margin-top: .5rem;
+  margin-left: .5rem;
 }
 
 h4, .giga {
