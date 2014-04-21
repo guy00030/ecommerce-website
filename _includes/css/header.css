@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.logo {
+	width: 40%;
+	margin-left: 3rem;
+	padding-bottom: 2rem;
+}
+
+header {
+	background-color: #000;
+	width:100%;
+	font-family: 'Poiret One', cursive;
+	color: #c7c0ae;
+	text-align: center;
+	padding-bottom: .25rem; 
+	padding-top: 1rem;
+}
+
+.tfheader {
+}
+
+.btn{
+	font-size: 1.1rem;
+}
+
+.current {
+  background-color: #e4dce0;
+}
+
+.banner {
+  background: url('../images/banner.jpg') no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  padding: 5rem 1rem 1rem;
+}
+
+.banner h2 {
+  color: #fff;
+  font-family: 'Poiret One', cursive;
+  font-size: 1.25rem;
+  background-color: #e4dce0;
+}

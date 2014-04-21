@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.btn,
+.btn:link,
+.btn:visited 
+.btn-alt {
+	display: inline-block;
+	float: center;
+	padding: 0.75rem 1em;
+	margin-bottom: 1rem;
+	margin-left: 1rem;
+	background: -webkit-gradient(linear, left top, left bottom, from(), to(#000));
+	border-radius: 4px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+	color: #ef9cb0;
+	font-weight: bold;
+	border: 2;
+	font-family: 'Poiret One', cursive;
+}
+
+.btn-alt:hover {
+	color: #fff;
+}
+
+.nav-btn,
+.nav-btn:link,
+.nav-btn:visited {
+	font-family: 'Poiret One', cursive;
+	font-size: 2rem;
+	color: #ef9cb0;
+}
+
+@media screen and (max-width: 580px){
+	.nav-btn, 
+	.nav-btn:link, 
+	.nav-btn:visited {
+		font-size: 1rem;
+	}
+}
+
+.nav-border,
+.nav-border:link,
+.nav-border:visited {
+	border: solid 1px;
+	padding: 1rem;
+}
+
+.nav-alt:hover {
+	color: #01aeb0;
+}
+
