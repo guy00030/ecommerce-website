@@ -2,10 +2,10 @@
 layout: tote
 category: other-tote
 name: Leather
-artist: Kalaya Kyle
+artist: Norman White
 colour: black
-price: 40$
-fabric: Linen
+price: 90$
+fabric: Leather
 image: other-bags.jpg
 ---
 

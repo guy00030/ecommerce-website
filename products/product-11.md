@@ -3,8 +3,8 @@ layout: tote
 category: other-tote
 name: Linen & Polyester
 artist: Kalaya Kyle
-colour: black
-price: 40$
+colour: Black or White
+price: 50$
 fabric: Linen
 image: otherbag1.jpg
 ---
