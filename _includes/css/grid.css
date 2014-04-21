@@ -15,6 +15,10 @@ img {
 	background-color: #fbe6ec;
 }
 
+.center {
+	margin: 0 auto;
+}
+
 .unit-s-1 {
 	width: 100%;
 	
