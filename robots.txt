@@ -1,0 +1,6 @@
+# http://en.wikipedia.org/wiki/Robots_exclusion_standard
+# http://www.robotstxt.org
+
+Disallow: /_site/
+
+sitemap http://guy00030.github.io/ecommerce-website
