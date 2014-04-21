@@ -5,6 +5,7 @@ footer{
 	background-color: #000;
 	height: auto;
 	width: auto;
+	position: fixed;
 }
 
 .ease-all{
