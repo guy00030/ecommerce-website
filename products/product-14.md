@@ -2,10 +2,10 @@
 layout: tote
 category: other-tote
 name: Polyester
-artist: Kalaya Kyle
+artist: Morgan Reid
 colour: black
 price: 40$
-fabric: Linen
+fabric: Water resistant Polyester
 image: other-bag3.jpg
 ---
 

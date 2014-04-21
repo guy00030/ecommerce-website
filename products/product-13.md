@@ -2,10 +2,10 @@
 layout: tote
 category: other-tote
 name: Cotton with Strap
-artist: Kalaya Kyle
+artist: Jordan Doyle
 colour: black
-price: 40$
-fabric: Linen
+price: 60$
+fabric: Cotton with faux lether strap
 image: other-bag2.jpg
 ---
 
