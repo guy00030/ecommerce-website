@@ -20,8 +20,8 @@ image: other-bags.jpg
 	{% for tote in site.pages %}
 	{% if tote.category == 'other-tote' %}
 	<li>
-		<a href="{{site.base.url}}{{tote.url}}" class="unit unit-s-1 unit-m-1-3 unit-l-1-3">
-			<img src="{{site.base.url}}/images/{{tote.image}}" alt="" class="flex-img">
+		<a href="{{sitebase.url}}{{tote.url}}" class="unit unit-s-1 unit-m-1-3 unit-l-1-3">
+			<img src="{{sitebase.url}}/images/{{tote.image}}" alt="" class="flex-img">
 			{{tote.name}}
 		</a>
 	</li>
